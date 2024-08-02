@@ -1,0 +1,54 @@
+
+        p{
+          text-align:center;
+        }
+
+        button {
+            display: block;
+            background: orange;
+            font-size: large;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            padding-top: 7px;
+            padding-bottom: 7px;
+            padding-left: 30px;
+            padding-right: 30px;
+            margin-top: 15px;
+            margin-left: 15px;
+            margin-right: 15px;
+          }
+
+        #B{
+            display: flex;
+            justify-content: center;
+
+        }
+
+        
+        #hyouji{
+            text-align:center;
+            font-size: large;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+
+        #Rejan1{
+            text-align:center;
+            font-size: x-large;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            margin: 5px;
+        }
+
+        #Rejan2{
+            text-align:center;
+            font-size: 100px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            margin: 50px;
+        }
+
+
+        #jankenpon{
+            margin-bottom: 50px;
+            transform: rotate(180deg);
+        }
+
+       
